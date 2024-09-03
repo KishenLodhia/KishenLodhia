@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning .NET<br><br>👨‍💻 All of my projects are available at http://www.github.com/KishenLodhia<br><br>💬 Ask me about React, Flutter, UX<br><br>📫 How to reach me kishan1999lodhia@gmail.com<br><br>📄 Know about my experiences https://kishen-lodhia.vercel.app/resume<br><br>⚡ Fun fact I love space exploration
+🌱 I’m currently learning FastAPI<br><br>👨‍💻 All of my projects are available at http://www.github.com/KishenLodhia<br><br>💬 Ask me about React, Flutter, UX<br><br>📫 How to reach me kishan1999lodhia@gmail.com<br><br>📄 Know about my experiences https://kishen-lodhia.vercel.app/resume<br><br>⚡ Fun fact I love space exploration
 
 
 ## 🌐 Socials:
