@@ -47,11 +47,14 @@ Full-stack software engineer based in Brisbane, Australia. I build production we
 
 ## 📌 Featured projects
 
+Most of my production work lives in private repos, so here's what it is rather than a link to the code.
+
 | Project | What it is | Stack |
 |---|---|---|
-| **[Project name](https://github.com/KishenLodhia/repo)** | One line on the problem it solves | React, Laravel |
-| **[Project name](https://github.com/KishenLodhia/repo)** | One line on the problem it solves | Flutter, Firebase |
-| **[Project name](https://github.com/KishenLodhia/repo)** | One line on the problem it solves | Next.js, Supabase |
+| **[Eviole](https://eviole.com.au)** · *private* | Healthtech SaaS I built largely solo: course enrolment, rich-content authoring, and a versioned partner REST API | Laravel, Inertia.js, React |
+| **Shreeji POS** · *private* | Point-of-sale and back-office system for a jewellery retailer in Fiji, built solo and feeding the public website | Laravel, Inertia.js, React |
+| **[shreejifiji.com](https://shreejifiji.com)** · *private* | Content-first rebuild of the retailer's site, off Shopify, optimised for search and AI discovery | Next.js, Vercel |
+| **[Sentiment Analysis: Hydrogen Energy](https://github.com/KishenLodhia/Sentiment-Analysis-Hydrogen-Energy)** | Sentiment analysis on public discussion of hydrogen energy | Python, Jupyter |
 
 ---
 
