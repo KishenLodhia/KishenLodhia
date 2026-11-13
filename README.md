@@ -1,68 +1,190 @@
-# Hi, I'm Kishen 👋
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-Full-stack software engineer based in Brisbane, Australia. I build production web apps end to end, with most of my day-to-day in backend systems and APIs.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Kishen%20Lodhia&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Brisbane%2C%20Australia&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-- 🚚 Software Engineer at **Truckit**, a freight marketplace, working mostly on the backend
-- 🩺 Built **Eviole**, a healthtech SaaS platform, largely solo (Laravel, Inertia.js, React)
-- 🎓 Master of IT (Computer Science), QUT · Bachelor of Software Engineering, USP
-- 🌱 Currently exploring: FastAPI
-- 🚀 Outside of code: space exploration nerd
+<a href="https://github.com/KishenLodhia">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+design+systems%2C+not+just+features.;APIs+%C2%B7+Architecture+%C2%B7+Product+thinking;Shipping+production+SaaS+end+to+end;AI-native+workflow%2C+human-reviewed+code" alt="Typing SVG" />
+</a>
 
-📄 [Resume](https://kishen-lodhia.vercel.app/resume) · 💼 [LinkedIn](https://linkedin.com/in/kishenlodhia) · 📫 kishan1999lodhia@gmail.com
+<br/>
 
----
+<a href="https://kishen-lodhia.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-7c3aed?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kishenlodhia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kishan1999lodhia@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🛠️ Tech I work with
+</div>
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+<br/>
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<!-- ============ ABOUT ============ -->
+## 🧭 About me
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+I'm a software engineer who cares about the whole lifecycle — from understanding the problem and shaping the architecture, through to shipping, deploying and keeping things healthy in production. Most of my day-to-day lives in backend systems and APIs, but I'm just as comfortable owning a product end to end.
 
-**Data & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+```yaml
+role:        Software Engineer @ Truckit (freight marketplace) — backend-focused
+also:        Contract engineer & solo builder of Eviole (healthtech SaaS)
+strengths:   [API design, system architecture, data modelling, product delivery]
+how_i_work:  Spec first → small, reviewable increments → documented decisions
+education:   [Master of IT (Computer Science) — QUT, B.SE — USP]
+languages:   [English, Gujarati, Hindi]
+off_hours:   🚀 space exploration nerd
+```
 
----
+<br/>
 
-## 📌 Featured projects
+<!-- ============ ENGINEERING ============ -->
+## 🏗️ Beyond the code
 
-Most of my production work lives in private repos, so here's what it is rather than a link to the code.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Eviole](https://eviole.com.au)** · *private* | Healthtech SaaS I built largely solo: course enrolment, rich-content authoring, and a versioned partner REST API | Laravel, Inertia.js, React |
-| **Shreeji POS** · *private* | Point-of-sale and back-office system for a jewellery retailer in Fiji, built solo and feeding the public website | Laravel, Inertia.js, React |
-| **[shreejifiji.com](https://shreejifiji.com)** · *private* | Content-first rebuild of the retailer's site, off Shopify, optimised for search and AI discovery | Next.js, Vercel |
-| **[Sentiment Analysis: Hydrogen Energy](https://github.com/KishenLodhia/Sentiment-Analysis-Hydrogen-Energy)** | Sentiment analysis on public discussion of hydrogen energy | Python, Jupyter |
+**📐 Architecture & API design**
+Versioned, contract-first REST APIs with OpenAPI/Swagger specs, strict PUT/PATCH semantics and stable external IDs — designed so partners can integrate without guesswork.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub stats
+**🧱 Reliability & correctness**
+Concurrency-safe scheduled jobs, idempotent workflows, input sanitisation and data integrity guards. I chase root causes, not symptoms.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📝 Engineering governance**
+Architecture docs, decision records (ADRs) and codified conventions so a codebase stays understandable as it grows — for humans *and* AI agents.
+
+</td>
+<td width="50%" valign="top">
+
+**🚢 Delivery & operations**
+Owning deploys, environments and transactional email infrastructure. Comfortable with the unglamorous parts that make software actually run.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Product thinking**
+Building for non-technical users, scoping ruthlessly, and choosing the lean solution over the clever one.
+
+</td>
+<td width="50%" valign="top">
+
+**🔎 Search & AI discoverability**
+Content-first, SEO- and AI-friendly web builds that answer engines and crawlers can actually read.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ AI ============ -->
+## 🤖 AI-native engineering
+
+I use AI as a force multiplier inside a disciplined process: **spec → plan → agent executes → I review → explicit approval gate**. Fast, but never unreviewed.
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KishenLodhia&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenLodhia&theme=radical&layout=compact" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_v0-000000?style=for-the-badge&logo=v0&logoColor=white" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=KishenLodhia&theme=radical" />
+- 🧠 **Agentic coding** with Claude Code & Cursor, guided by `.cursorrules`, `ARCHITECTURE.md` and `DECISIONS.md`
+- 🔌 **MCP** to connect agents to real tools and data
+- 🔍 **AI-assisted review** of specs and diffs before anything merges
+
+<br/>
+
+<!-- ============ STACK ============ -->
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,php,py,dart&theme=dark" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=dark" />
+
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" height="48" />
+
+**Data, Cloud & Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,aws,vercel,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ============ PROJECTS ============ -->
+## 📌 Featured work
+
+> Most of my production work lives in private repos — so here's what it *is*, rather than a link to the code.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Eviole](https://eviole.com.au)
+`private` · **Laravel · Inertia.js · React**
+
+Healthtech SaaS I architected and built largely solo. Course enrolment and progression, a rich-content authoring pipeline (TipTap, sanitised HTML, autosave, stable internal linking) and a **versioned partner REST API** with a full OpenAPI spec.
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 Shreeji POS
+`private` · **Laravel · Inertia.js · React**
+
+Counter and back-office system for a family-run jewellery retailer in Fiji, built solo and designed around non-technical staff — fast, forgiving, and simple to use at the counter.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [shreejifiji.com](https://shreejifiji.com)
+`private` · **Next.js · Vercel**
+
+Content-first rebuild of the retailer's site, migrated off Shopify and engineered for search and AI discovery.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Sentiment Analysis: Hydrogen Energy](https://github.com/KishenLodhia/Sentiment-Analysis-Hydrogen-Energy)
+`public` · **Python · Jupyter · NLP**
+
+Sentiment analysis of public discussion around hydrogen energy.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ STATS ============ -->
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KishenLodhia&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishenLodhia&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=KishenLodhia&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<!-- ============ FOOTER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
